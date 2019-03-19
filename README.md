@@ -8,4 +8,4 @@
 ![AltGr Layout](https://github.com/EmilianoTalamo/emits-keyboard-layout/blob/master/preview/EmitAltGr.jpg)
 
 ## Shift AltGr Layout
-![Shift AltGr Layout](https://github.com/EmilianoTalamo/emits-keyboard-layout/blob/master/preview/EmitAltGr.jpg)
+![Shift AltGr Layout](https://github.com/EmilianoTalamo/emits-keyboard-layout/blob/master/preview/EmitShftAltGr.jpg)
